@@ -1,0 +1,56 @@
+body {font-family: 'Open Sans', sans-serif;}
+
+
+#box1 {
+    display: block;
+    background-color: #6F7E0D;
+    text-align: center;
+    padding-top: 31px;
+    padding-bottom: 31px;
+}
+
+.menu {
+    margin: 41px auto;
+    padding: 0;
+    text-align: center;
+
+}
+
+.menu li {
+    display:inline-block;
+    padding-right: 44px;
+
+}
+
+.menu li a {
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+}
+h1 {
+    font-size: 24px;
+    font-weight: bold;
+    padding: 76px 0 52px 0;
+    text-align: center;
+    
+}
+#baner{
+    text-align: center;
+}
+
+#content {
+    width: 817px;
+    margin: 0 auto;
+    padding-bottom: 76px;
+
+}
+p {
+    font-size: 16px;
+
+}
+#box2{
+    height: 100px;
+    display: block;
+    background-color: #6F7E0D;
+
+}
